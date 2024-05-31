@@ -1,0 +1,80 @@
+FILE PredictorTraces/DIST-FP-1... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    70105 / 29499988 =   2.376
+
+FILE PredictorTraces/DIST-FP-2... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    29444 / 29499869 =   0.998
+
+FILE PredictorTraces/DIST-FP-3... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    12877 / 29499978 =   0.437
+
+FILE PredictorTraces/DIST-FP-4... 
+
+1000*wrong_cc_predicts/total insts: 1000 *     6118 / 29499976 =   0.207
+
+FILE PredictorTraces/DIST-FP-5... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    27753 / 29499969 =   0.941
+
+FILE PredictorTraces/DIST-INT-1... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   166275 / 29499987 =   5.636
+
+FILE PredictorTraces/DIST-INT-2... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   315398 / 29499985 =  10.691
+
+FILE PredictorTraces/DIST-INT-3... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   299455 / 29499978 =  10.151
+
+FILE PredictorTraces/DIST-INT-4... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    52322 / 29499960 =   1.774
+
+FILE PredictorTraces/DIST-INT-5... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    11479 / 29499990 =   0.389
+
+FILE PredictorTraces/DIST-MM-1... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   227924 / 29499979 =   7.726
+
+FILE PredictorTraces/DIST-MM-2... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   288483 / 29499970 =   9.779
+
+FILE PredictorTraces/DIST-MM-3... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    66626 / 29499970 =   2.259
+
+FILE PredictorTraces/DIST-MM-4... 
+
+1000*wrong_cc_predicts/total insts: 1000 *    45395 / 29499993 =   1.539
+
+FILE PredictorTraces/DIST-MM-5... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   260909 / 29499791 =   8.844
+
+FILE PredictorTraces/DIST-SERV-1... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   263661 / 29499316 =   8.938
+
+FILE PredictorTraces/DIST-SERV-2... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   280951 / 29499198 =   9.524
+
+FILE PredictorTraces/DIST-SERV-3... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   283899 / 29499817 =   9.624
+
+FILE PredictorTraces/DIST-SERV-4... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   286806 / 29498081 =   9.723
+
+FILE PredictorTraces/DIST-SERV-5... 
+
+1000*wrong_cc_predicts/total insts: 1000 *   288590 / 29497759 =   9.783
+
