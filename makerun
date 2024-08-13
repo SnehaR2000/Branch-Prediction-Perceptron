@@ -1,0 +1,6 @@
+process_traces:
+for file in traces/* .bz; do\
+     ./predictor $$file; \
+done
+
+run_traces: predictor process_traces
